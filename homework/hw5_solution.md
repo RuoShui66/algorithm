@@ -82,12 +82,6 @@ void solve(){
 }
 ```
 
-#### 程序测试结果
-
-<img src="/Users/luochenxuan/Desktop/截屏2022-11-10 19.22.04.png" style="zoom:80%;" />
-
-<img src="/Users/luochenxuan/Desktop/截屏2022-11-10 19.21.18.png" style="zoom: 80%;" />
-
 ### 第 3 题 单位时间任务安排问题
 
 - 贪心地去安排任务
